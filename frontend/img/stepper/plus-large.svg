@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch Beta 43 (38917) - http://www.bohemiancoding.com/sketch -->
+    <title>buttons/plus copy</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5DCC18" offset="0%"></stop>
+            <stop stop-color="#458B12" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="29" cy="30" r="29"></circle>
+        <filter x="-48.3%" y="-34.5%" width="196.6%" height="196.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.804545969 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main_02d" transform="translate(-398.000000, -248.000000)">
+            <g id="buttons/plus" transform="translate(414.000000, 255.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <text id="+" font-family="Rubik-Bold, Rubik" font-size="47" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.0945" y="44">+</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
